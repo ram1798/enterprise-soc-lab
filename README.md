@@ -39,7 +39,4 @@
 ### Documentation
   Decisions, designs, implementation processes, security findings, troubleshooting, and notes will be added throughout the project. 
 
-  
 
-| **5** | Threat simulation and detection engineering | 💤 Not Started |
-| **6** | Incident investigation and reporting | 💤 Not Started |
